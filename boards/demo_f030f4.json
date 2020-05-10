@@ -13,7 +13,8 @@
   },
   "frameworks": [
     "arduino",
-    "stm32cube"
+    "stm32cube",
+    "cmsis"
   ],
   "name": "Demo F030F4",
   "upload": {
