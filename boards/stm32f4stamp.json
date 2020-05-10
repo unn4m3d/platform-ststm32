@@ -27,7 +27,8 @@
   },
   "frameworks": [
     "arduino",
-    "stm32cube"
+    "stm32cube",
+    "cmsis"
   ],
   "name": "STM32F4Stamp F405",
   "upload": {
